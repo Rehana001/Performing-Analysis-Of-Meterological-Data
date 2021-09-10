@@ -1,0 +1,4 @@
+# Performing-Analysis-Of-Meterological-Data
+The dataset has hourly temperature recorded for last 10 years starting from 2006–04–01 00:00:00.000+0200 to 2016–09–09 23:00:00.000 +0200. It corresponds to Finland a country in Northern Europe. The dataset can be accessed by both Google drive and Kaggle.
+The null hypothesis is “Has the Apparent Temperature and humidity compared monthly across 10 years of the data indicate an increase due to global warming “
+The hypothesis means we need to find whether the average Apparent temperature for the month of may say April starting from 2006 to 2016 and average humidity for the same period have increased or not. This monthly analysis has to be done for all 12 months over the 10 year period. So here we are basically resampling the data from hourly to monthly, then comparing the same month over 10 year period.
